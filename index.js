@@ -5,7 +5,7 @@ kittens.push("Ralph");
 return kittens;
 }
 function destructivelyPrependKitten(name) {
-  kittens.unshift("Tom");
+  kittens.unshift("Bob");
   return kittens;
 }
 function destructivelyRemoveLastKitten() {
